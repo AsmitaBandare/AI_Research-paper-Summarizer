@@ -1,0 +1,186 @@
+[
+    {
+        "Paper ID": "P01",
+        "Reference ID": "R001",
+        "Cited Paper Title": "Artificial Intelligence: A Modern Approach",
+        "Reference Link": "https://aima.cs.berkeley.edu/",
+        "Citation Count": 14,
+        "Cross-Paper Links": "https://doi.org/10.35940/ijrte.F9887.038620"
+    },
+    {
+        "Paper ID": "P01",
+        "Reference ID": "R002",
+        "Cited Paper Title": "Machine Learning: Trends and Perspectives",
+        "Reference Link": "https://www.sciencedirect.com",
+        "Citation Count": 14,
+        "Cross-Paper Links": "https://www.science.org/doi/abs/10.1126/science.aaa8415"
+    },
+    {
+        "Paper ID": "P01",
+        "Reference ID": "R003",
+        "Cited Paper Title": "Deep Learning",
+        "Reference Link": "https://www.deeplearningbook.org",
+        "Citation Count": 14,
+        "Cross-Paper Links": "https://www.nature.com/articles/nature14539"
+    },
+    {
+        "Paper ID": "P02",
+        "Reference ID": "R004",
+        "Cited Paper Title": "A Comprehensive Study of Social Engineering-Based Attacks",
+        "Reference Link": "https://ieeexplore.ieee.org/document/6178654",
+        "Citation Count": 5,
+        "Cross-Paper Links": "https://www.researchgate.net/profile/Monark-Bag/publication/236009825_A_Comprehensive_Study_of_Social_Engineering_Based_Attacks_in_India_to_Develop_a_Conceptual_Model/links/00b7d515a8c27c82c6000000/A-Comprehensive-Study-of-Social-Engineering-Based-Attacks-in-India-to-Develop-a-Conceptual-Model.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail"
+    },
+    {
+        "Paper ID": "P02",
+        "Reference ID": "R005",
+        "Cited Paper Title": "Human-Based Social Engineering Attack Classification",
+        "Reference Link": "https://ieeexplore.ieee.org/document/5633648",
+        "Citation Count": 5,
+        "Cross-Paper Links": "https://link.springer.com/chapter/10.1007/978-3-030-77392-2_27"
+    },
+    {
+        "Paper ID": "P02",
+        "Reference ID": "R006",
+        "Cited Paper Title": "Ontology-Based Formal Specifications for Social Engineering",
+        "Reference Link": "https://link.springer.com/article/10.1007/s11227-021-03869-2",
+        "Citation Count": 5,
+        "Cross-Paper Links": "https://www.researchgate.net/profile/Issam-Al-Shanfari/publication/339881709_ONTOLOGY-BASED_FORMAL_SPECIFICATIONS_FOR_SOCIAL_ENGINEERING/links/5e6a2bc2458515c5de630078/ONTOLOGY-BASED-FORMAL-SPECIFICATIONS-FOR-SOCIAL-ENGINEERING.pdf"
+    },
+    {
+        "Paper ID": "P03",
+        "Reference ID": "R007",
+        "Cited Paper Title": "Deep Learning-Based Sentiment Analysis",
+        "Reference Link": "https://www.sciencedirect.com/science/article/pii/S0957417422003921",
+        "Citation Count": 502,
+        "Cross-Paper Links": "https://link.springer.com/article/10.1007/s13369-018-3500-z"
+    },
+    {
+        "Paper ID": "P03",
+        "Reference ID": "R008",
+        "Cited Paper Title": "A Survey on Sentiment Analysis Using Machine Learning",
+        "Reference Link": "https://ieeexplore.ieee.org/document/8720796",
+        "Citation Count": 502,
+        "Cross-Paper Links": "https://ieeexplore.ieee.org/abstract/document/8284920/"
+    },
+    {
+        "Paper ID": "P03",
+        "Reference ID": "R009",
+        "Cited Paper Title": "Opinion Mining and Sentiment Analysis",
+        "Reference Link": "https://www.sciencedirect.com/science/article/pii/S0306457317306905",
+        "Citation Count": 502,
+        "Cross-Paper Links": "https://www.emerald.com/ftinr/article/2/1?2/1/1321550/Opinion-Mining-and-Sentiment-Analysis"
+    },
+    {
+        "Paper ID": "P04",
+        "Reference ID": "R010",
+        "Cited Paper Title": "Artificial Intelligence in Healthcare",
+        "Reference Link": "https://www.sciencedirect.com",
+        "Citation Count": 56,
+        "Cross-Paper Links": "https://www.nature.com/articles/s41551-018-0305-z"
+    },
+    {
+        "Paper ID": "P04",
+        "Reference ID": "R011",
+        "Cited Paper Title": "Applications of Artificial Intelligence",
+        "Reference Link": "https://link.springer.com",
+        "Citation Count": 56,
+        "Cross-Paper Links": "https://www.mdpi.com/2071-1050/11/1/189"
+    },
+    {
+        "Paper ID": "P05",
+        "Reference ID": "R012",
+        "Cited Paper Title": "Mental Health Awareness Studies",
+        "Reference Link": "https://www.ijip.in",
+        "Citation Count": 6,
+        "Cross-Paper Links": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Mental+Health+Awareness+Studies&btnG="
+    },
+    {
+        "Paper ID": "P05",
+        "Reference ID": "R013",
+        "Cited Paper Title": "Psychological Wellbeing among College Students",
+        "Reference Link": "https://www.sciencedirect.com",
+        "Citation Count": 6,
+        "Cross-Paper Links": "https://www.researchgate.net/profile/Udhayakumar-Palaniswamy/publication/359369816_Psychological_Wellbeing_among_College_Students/links/6238332e5b303e5c5aade8c1/Psychological-Wellbeing-among-College-Students.pdf"
+    },
+    {
+        "Paper ID": "P06",
+        "Reference ID": "R014",
+        "Cited Paper Title": "Big Data Analytics: Concepts and Applications",
+        "Reference Link": "https://link.springer.com/book/10.1007/978-3-319-47509-6",
+        "Citation Count": 35,
+        "Cross-Paper Links": "https://aisel.aisnet.org/cais/vol34/iss1/65/"
+    },
+    {
+        "Paper ID": "P06",
+        "Reference ID": "R015",
+        "Cited Paper Title": "Data Science and Its Applications",
+        "Reference Link": "https://www.sciencedirect.com/book/9780128042918",
+        "Citation Count": 35,
+        "Cross-Paper Links": "http://ojs.bonviewpress.com/index.php/jdsis/article/view/837"
+    },
+    {
+        "Paper ID": "P07",
+        "Reference ID": "R016",
+        "Cited Paper Title": "Human Resource Management Practices",
+        "Reference Link": "https://www.sciencedirect.com/book/9780080970868",
+        "Citation Count": 9,
+        "Cross-Paper Links": "https://www.nber.org/papers/w5333"
+    },
+    {
+        "Paper ID": "P07",
+        "Reference ID": "R017",
+        "Cited Paper Title": "Global Challenges in Human Resource Management",
+        "Reference Link": "https://link.springer.com/book/10.1007/978-3-319-95961-0",
+        "Citation Count": 9,
+        "Cross-Paper Links": "https://books.google.co.in/books?hl=en&lr=&id=Q9trEQAAQBAJ&oi=fnd&pg=PT11&dq=Global+Challenges+in+Human+Resource+Management&ots=9Hkw47hN9Q&sig=Js4U9SLU4eurLxpoSoC1Ufe0kH8&redir_esc=y#v=onepage&q=Global%20Challenges%20in%20Human%20Resource%20Management&f=false"
+    },
+    {
+        "Paper ID": "P08",
+        "Reference ID": "R018",
+        "Cited Paper Title": "Educational Data Mining: A Review",
+        "Reference Link": "https://educationaldatamining.org",
+        "Citation Count": 24,
+        "Cross-Paper Links": "https://www.sciencedirect.com/science/article/pii/S1877042813036859"
+    },
+    {
+        "Paper ID": "P08",
+        "Reference ID": "R019",
+        "Cited Paper Title": "Predicting Student Performance Using Data Mining",
+        "Reference Link": "https://dl.acm.org/doi/10.1145/3375462.3375506",
+        "Citation Count": 24,
+        "Cross-Paper Links": "https://reference-global.com/download/article/10.2478/cait-2013-0006.pdf"
+    },
+    {
+        "Paper ID": "P09",
+        "Reference ID": "R020",
+        "Cited Paper Title": "Financial Management Theory and Practice",
+        "Reference Link": "https://www.sciencedirect.com/book/9780128138772",
+        "Citation Count": 48,
+        "Cross-Paper Links": "http://thuvienso.thanglong.edu.vn/handle/TLU/12906"
+    },
+    {
+        "Paper ID": "P09",
+        "Reference ID": "R021",
+        "Cited Paper Title": "Corporate Finance: Principles and Applications",
+        "Reference Link": "https://link.springer.com/book/10.1007/978-3-319-28887-1",
+        "Citation Count": 48,
+        "Cross-Paper Links": "https://books.google.co.in/books?hl=en&lr=&id=mVKzOorI2cAC&oi=fnd&pg=PR7&dq=Corporate+Finance:+Principles+and+Applications&ots=jA2QkmFwCF&sig=oC8gjAL8aClz766IBW7fGHkeiRE&redir_esc=y#v=onepage&q=Corporate%20Finance%3A%20Principles%20and%20Applications&f=false"
+    },
+    {
+        "Paper ID": "P10",
+        "Reference ID": "R022",
+        "Cited Paper Title": "Electric Vehicle Technology Explained",
+        "Reference Link": "https://www.sciencedirect.com/book/9780128183208",
+        "Citation Count": 42,
+        "Cross-Paper Links": "https://books.google.co.in/books?hl=en&lr=&id=6aWSaJUZuOEC&oi=fnd&pg=PR13&dq=Electric+Vehicle+Technology+Explained&ots=oJPJgxeKfo&sig=YGp05zArVh46Lv67-agO7Zr0Nko&redir_esc=y#v=onepage&q=Electric%20Vehicle%20Technology%20Explained&f=false"
+    },
+    {
+        "Paper ID": "P10",
+        "Reference ID": "R023",
+        "Cited Paper Title": "Sustainable Transportation Systems",
+        "Reference Link": "https://link.springer.com/book/10.1007/978-3-319-69063-6",
+        "Citation Count": 42,
+        "Cross-Paper Links": "https://www.sciencedirect.com/science/article/abs/pii/S1470160X1630423X"
+    }
+]
