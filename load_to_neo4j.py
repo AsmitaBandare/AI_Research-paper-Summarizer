@@ -24,8 +24,6 @@ def clean_relationship(rel):
 
 
 # ----------------------------
-# 👇 PUT YOUR NEW FUNCTION HERE
-# ----------------------------
 def create_triple(tx, subj, pred, obj):
 
     relationship = clean_relationship(pred)
