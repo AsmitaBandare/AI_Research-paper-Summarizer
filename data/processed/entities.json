@@ -1,0 +1,303 @@
+[
+    {
+        "paper_id": "P01",
+        "entities": [
+            {
+                "name": "Data Science",
+                "type": "Organization"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "type": "Organization"
+            },
+            {
+                "name": "mathematical & statistical",
+                "type": "Organization"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "type": "Organization"
+            },
+            {
+                "name": "1",
+                "type": "Concept"
+            },
+            {
+                "name": "Heuristics",
+                "type": "Concept"
+            },
+            {
+                "name": "Support Vector Machines",
+                "type": "Organization"
+            },
+            {
+                "name": "Artificial Neural Networks",
+                "type": "Organization"
+            },
+            {
+                "name": "Markov Decision Process",
+                "type": "Author"
+            },
+            {
+                "name": "1",
+                "type": "Concept"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "type": "Author"
+            },
+            {
+                "name": "A.I",
+                "type": "Organization"
+            },
+            {
+                "name": "day",
+                "type": "Concept"
+            },
+            {
+                "name": "SAS",
+                "type": "Organization"
+            }
+        ]
+    },
+    {
+        "paper_id": "P02",
+        "entities": [
+            {
+                "name": "Data Science",
+                "type": "Organization"
+            }
+        ]
+    },
+    {
+        "paper_id": "P03",
+        "entities": [
+            {
+                "name": "decades",
+                "type": "Concept"
+            },
+            {
+                "name": "one",
+                "type": "Concept"
+            },
+            {
+                "name": "039",
+                "type": "Concept"
+            },
+            {
+                "name": "AI",
+                "type": "Concept"
+            },
+            {
+                "name": "27",
+                "type": "Concept"
+            },
+            {
+                "name": "451",
+                "type": "Concept"
+            },
+            {
+                "name": "between 1977 and 2018",
+                "type": "Concept"
+            },
+            {
+                "name": "84.6%",
+                "type": "Concept"
+            },
+            {
+                "name": "2008-2018",
+                "type": "Concept"
+            },
+            {
+                "name": "Robotic",
+                "type": "Organization"
+            },
+            {
+                "name": "Artificial",
+                "type": "Author"
+            },
+            {
+                "name": "the Clinical Prediction and Treatment",
+                "type": "Organization"
+            },
+            {
+                "name": "Stroke",
+                "type": "Organization"
+            },
+            {
+                "name": "AI",
+                "type": "Concept"
+            },
+            {
+                "name": "AI",
+                "type": "Concept"
+            },
+            {
+                "name": "AI",
+                "type": "Concept"
+            },
+            {
+                "name": "AI",
+                "type": "Concept"
+            }
+        ]
+    },
+    {
+        "paper_id": "P04",
+        "entities": [
+            {
+                "name": "AI",
+                "type": "Concept"
+            },
+            {
+                "name": "Artificial Intelligence (AI",
+                "type": "Organization"
+            },
+            {
+                "name": "AI",
+                "type": "Concept"
+            },
+            {
+                "name": "Today",
+                "type": "Concept"
+            },
+            {
+                "name": "Intelligence",
+                "type": "Organization"
+            },
+            {
+                "name": "AI",
+                "type": "Concept"
+            }
+        ]
+    },
+    {
+        "paper_id": "P05",
+        "entities": [
+            {
+                "name": "Narayana",
+                "type": "Concept"
+            },
+            {
+                "name": "Kessler",
+                "type": "Author"
+            },
+            {
+                "name": "760",
+                "type": "Concept"
+            },
+            {
+                "name": "Multi",
+                "type": "Concept"
+            },
+            {
+                "name": "58.4%",
+                "type": "Concept"
+            },
+            {
+                "name": "7.9%",
+                "type": "Concept"
+            },
+            {
+                "name": "78.4%",
+                "type": "Concept"
+            },
+            {
+                "name": "83.8%",
+                "type": "Concept"
+            }
+        ]
+    },
+    {
+        "paper_id": "P06",
+        "entities": []
+    },
+    {
+        "paper_id": "P07",
+        "entities": [
+            {
+                "name": "three",
+                "type": "Concept"
+            },
+            {
+                "name": "Edward L. Gubman",
+                "type": "Author"
+            },
+            {
+                "name": "the Journal of Business Strategy",
+                "type": "Organization"
+            },
+            {
+                "name": "three",
+                "type": "Concept"
+            },
+            {
+                "name": "Human Resource Management",
+                "type": "Organization"
+            },
+            {
+                "name": "HRM",
+                "type": "Concept"
+            },
+            {
+                "name": "HRM",
+                "type": "Concept"
+            }
+        ]
+    },
+    {
+        "paper_id": "P08",
+        "entities": [
+            {
+                "name": "a Master of Data Science",
+                "type": "Organization"
+            }
+        ]
+    },
+    {
+        "paper_id": "P09",
+        "entities": [
+            {
+                "name": "Qualitative",
+                "type": "Concept"
+            }
+        ]
+    },
+    {
+        "paper_id": "P10",
+        "entities": [
+            {
+                "name": "Today",
+                "type": "Concept"
+            },
+            {
+                "name": "second",
+                "type": "Concept"
+            },
+            {
+                "name": "Electric Vehicle",
+                "type": "Author"
+            },
+            {
+                "name": "1881",
+                "type": "Concept"
+            },
+            {
+                "name": "1887",
+                "type": "Concept"
+            },
+            {
+                "name": "Internal Combustion Engines",
+                "type": "Organization"
+            },
+            {
+                "name": "today",
+                "type": "Concept"
+            },
+            {
+                "name": "Electric Vehicle",
+                "type": "Author"
+            }
+        ]
+    }
+]
